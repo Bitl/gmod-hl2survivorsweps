@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_pistol_black\pistol_silencer"
+        "$bumpmap" "models\weapons\v_pistol_black\pistol_silencer_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$selfillum" "1"
+}

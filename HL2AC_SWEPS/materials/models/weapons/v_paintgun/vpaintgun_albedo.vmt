@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_paintgun/vpaintgun_albedo"
+	"$bumpmap" "models\weapons\v_paintgun/vpaintgun_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .5
+        "$model" 1
+	"$envmapcontrast" 1
+	"$selfillum" 1
+
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\weapons\v_hand\v_hand_sheet_b"
+        "$translucent" "1"
+	"$model" 1
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"HL2AC_SWEPS"
+	"version"			"1.0"
+	"up_date"			""
+	"author_name"			""
+	"author_email"			""
+	"author_url"			""
+	"info"				""
+	"override"			"0"
+}

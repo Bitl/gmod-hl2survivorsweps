@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\w_alpha\w_turret_b_02"
+        "$bumpmap" "models\weapons\w_alpha\w_turret_nomal_3p"
+        "$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5]"
+        "$envmapsaturation" .5
+	"$envmapcontrast" 1
+	"$envmapmask" "models/combine_turrets/floor_turret/combine_gun002_mask"
+	"$selfillum" 1
+}
