@@ -45,7 +45,7 @@ function SWEP:PrimaryAttack()
 				bullet.Force  = 1
 				bullet.Damage = 25
 			self.Owner:FireBullets(bullet)
-			self.Weapon:EmitSound("Weapon_Crowbar.Melee_HitWorld")			
+			self.Weapon:EmitSound("Weapon_Crowbar.Melee_Hit")			
 	else
 		self.Owner:SetAnimation( PLAYER_ATTACK1 );
 		self.Weapon:SendWeaponAnim( ACT_VM_HITCENTER );
