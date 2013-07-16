@@ -13,19 +13,19 @@ Here is a pack full of Half-Life 2 Survivor SWEPs.
 
 Includes: 
 
--Actual Half-Life 2 Survivor Ver2.0 models. 
--Gatling Gun (Red and Blue) 
--AR2 Skin 1 (Red and Blue) 
--Pistol with Silencer (Red and Blue) 
--SMG1 Skin 1 (Red and Blue) 
--Paintgun 
--.357 Magnum (Red and Blue) 
--AR2 (Red and Blue) 
--Crowbar Skin 1 (Red and Blue) 
--Alpha Stunstick (Red and Blue) 
--Turret Deployer (Red and Blue) 
--Sniper Rifle (Red and Blue)
--Alpha Stunstick Skin 1 (Red and Blue) 
+* Actual Half-Life 2 Survivor Ver2.0 models.
+* Gatling Gun (Red and Blue) 
+* AR2 Skin 1 (Red and Blue) 
+* Pistol with Silencer (Red and Blue) 
+* SMG1 Skin 1 (Red and Blue) 
+* Paintgun 
+* .357 Magnum (Red and Blue) 
+* AR2 (Red and Blue) 
+* Crowbar Skin 1 (Red and Blue) 
+* Alpha Stunstick (Red and Blue) 
+* Turret Deployer (Red and Blue) 
+* Sniper Rifle (Red and Blue)
+* Alpha Stunstick Skin 1 (Red and Blue) 
 
 Credits: 
 
