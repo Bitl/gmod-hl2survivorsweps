@@ -38,7 +38,7 @@ function SWEP:PrimaryAttack()
 	self.Weapon:EmitSound(self.Primary.Sound)
 	
 	-- Shoot 9 bullets, 150 damage, 0.75 aimcone
-	self:ShootBullet( 10, 1, 0.06 )
+	self:ShootBullet( 25, 1, 0.06 )
 	
 	-- Remove 1 bullet from our clip
 	self:TakePrimaryAmmo( 1 )
